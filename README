@@ -1,0 +1,8 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= etc-hosts =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+  Give me a list of URLs and I will return a list of hosts and IP addresses.
+
+  Usage:
+    $ npm install                         # install dependencies
+    $ vim urls                            # edit URLs
+    $ node hosts.js                       # start and wait output

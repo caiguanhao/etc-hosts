@@ -1,0 +1,23 @@
+{
+  "name": "etc-hosts",
+  "version": "0.0.0",
+  "description": "Make /etc/hosts.",
+  "main": "hosts.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caiguanhao/etc-hosts.git"
+  },
+  "keywords": [
+    "hosts"
+  ],
+  "author": "Cai Guanhao <caigunhao@gmail.com> (Choi Goon-ho)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiguanhao/etc-hosts/issues"
+  },
+  "homepage": "https://github.com/caiguanhao/etc-hosts",
+  "dependencies": {
+    "phantomjs": "^1.9.7-8",
+    "q": "^1.0.1"
+  }
+}
